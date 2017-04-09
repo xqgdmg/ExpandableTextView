@@ -1,12 +1,3 @@
-ExpandableTextView [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExpandableTextView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1203)
-===================
-
-ExpandableTextView is an Android library that allows developers to easily create an TextView
-which can expand/collapse just like the Google Play's app description.
-Feel free to use it all you want in your Android apps provided that you cite this project.
-
-<img src="/art/readme_demo.gif?raw=true" width=360 height=640 alt="Quick Demo">
-
 Requirements
 -------------
 API Level 8 (Froyo) and above.
